@@ -1,5 +1,7 @@
 # Awesome Elastic Stack
 Awesome Elastic Stack
+[discuss] (https://discuss.elastic.co/) <br />
+[Elastic中文社区] (http://elasticsearch.cn/) <br />
 
 ## Elasticsearch
 
@@ -9,6 +11,7 @@ Awesome Elastic Stack
 [Elasticsearch DSL] (http://elasticsearch-dsl.readthedocs.io/en/latest/) <br />
 [Python Elasticsearch Client] (http://elasticsearch-py.readthedocs.io/en/master/index.html) <br />
 [Elasticsearch Chef Cookbook] (https://github.com/elastic/cookbook-elasticsearch) <br />
+[ELKstack 中文指南] (http://kibana.logstash.es/content/) <br />
 
 ### Tutorials
 [Elasticsearch Reference] (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) <br />
@@ -20,10 +23,18 @@ Awesome Elastic Stack
 [Smart Chinese Analysis Plugin for Elasticsearch] (https://github.com/elastic/elasticsearch-analysis-smartcn) <br />
 
 ### Tools
-
+[elasticdump] (https://github.com/taskrabbit/elasticsearch-dump) Tools for moving and saving indicies. <br />
+[elasticsearch-migration] (https://github.com/medcl/elasticsearch-migration) An elasticsearch migration tool. <br />
 
 ## Logstash
 
+### Books
+[Logstash 最佳实践] (http://udn.yyuap.com/doc/logstash-best-practice-cn/index.html) <br />
+
+### Tutorials
+[Logstash Reference] (https://www.elastic.co/guide/en/logstash/current/index.html) <br />
+
+### Plugins
 
 ## Kibana
 
