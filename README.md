@@ -25,6 +25,7 @@ Awesome Elastic Stack <br /><br />
 ### Tools
 [elasticdump] (https://github.com/taskrabbit/elasticsearch-dump) - Tools for moving and saving indicies. <br />
 [elasticsearch-migration] (https://github.com/medcl/elasticsearch-migration) - An elasticsearch migration tool. <br />
+[Elasticsearch-zabbix] (https://github.com/ejimz/Elasticsearch-zabbix) - Elasticsearch template and script for zabbix. <br />
 
 ## Logstash
 
