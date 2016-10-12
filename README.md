@@ -23,8 +23,8 @@ Awesome Elastic Stack <br /><br />
 [Smart Chinese Analysis Plugin for Elasticsearch] (https://github.com/elastic/elasticsearch-analysis-smartcn) <br />
 
 ### Tools
-[elasticdump] (https://github.com/taskrabbit/elasticsearch-dump) Tools for moving and saving indicies. <br />
-[elasticsearch-migration] (https://github.com/medcl/elasticsearch-migration) An elasticsearch migration tool. <br />
+[elasticdump] (https://github.com/taskrabbit/elasticsearch-dump) - Tools for moving and saving indicies. <br />
+[elasticsearch-migration] (https://github.com/medcl/elasticsearch-migration) - An elasticsearch migration tool. <br />
 
 ## Logstash
 
@@ -35,7 +35,7 @@ Awesome Elastic Stack <br /><br />
 [Logstash Reference] (https://www.elastic.co/guide/en/logstash/current/index.html) <br />
 
 ### Plugins
-[hangout] (https://github.com/childe/hangout) 用java实现一下Logstash的几个常用input/filter/output. <br />
+[hangout] (https://github.com/childe/hangout) - 用java实现一下Logstash的几个常用input/filter/output. <br />
 
 ## Kibana
 
