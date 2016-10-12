@@ -1,5 +1,5 @@
 # Awesome Elastic Stack
-Awesome Elastic Stack
+Awesome Elastic Stack <br /><br />
 [discuss] (https://discuss.elastic.co/) <br />
 [Elastic中文社区] (http://elasticsearch.cn/) <br />
 
@@ -35,6 +35,7 @@ Awesome Elastic Stack
 [Logstash Reference] (https://www.elastic.co/guide/en/logstash/current/index.html) <br />
 
 ### Plugins
+[hangout] (https://github.com/childe/hangout) 用java实现一下Logstash的几个常用input/filter/output. <br />
 
 ## Kibana
 
