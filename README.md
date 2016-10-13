@@ -21,6 +21,11 @@ Awesome Elastic Stack <br /><br />
 ### Plugins
 [IK Analysis for Elasticsearch] (https://github.com/medcl/elasticsearch-analysis-ik) <br />
 [Smart Chinese Analysis Plugin for Elasticsearch] (https://github.com/elastic/elasticsearch-analysis-smartcn) <br />
+[ElasticHQ] (https://github.com/royrusso/elasticsearch-HQ) - Monitoring, management, and querying web interface for elasticSearch instances and clusters. <br />
+[elasticsearch-head] (https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster. <br />
+[ElasticSearch Paramedic] (https://github.com/karmi/elasticsearch-paramedic) - A simple tool to inspect the state and statistics about elasticSearch clusters. <br />
+[kopf] (https://github.com/lmenezes/elasticsearch-kopf) - Web admin interface for elasticsearch. <br />
+[Bigdesk] (https://github.com/lukas-vlcek/bigdesk) - Live charts and statistics for elasticsearch cluster. <br />
 
 ### Tools
 [elasticdump] (https://github.com/taskrabbit/elasticsearch-dump) - Tools for moving and saving indicies. <br />
