@@ -41,7 +41,7 @@ Awesome Elastic Stack <br /><br />
 [Logstash Reference] (https://www.elastic.co/guide/en/logstash/current/index.html) <br />
 
 ### Plugins
-[hangout] (https://github.com/childe/hangout) - 用java实现一下Logstash的几个常用input/filter/output. <br />
+[hangout] (https://github.com/childe/hangout) - 用java实现一下logstash的几个常用input/filter/output. <br />
 
 ## Kibana
 ### Books
