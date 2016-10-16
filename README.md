@@ -18,6 +18,9 @@ Awesome Elastic Stack <br /><br />
 [Elasticsearch: The Definitive Guide] (https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) <br />
 [Elasticsearch as Database] (https://segmentfault.com/a/1190000003502849) <br />
 [Search Guard 2 for Elasticsearch 2.4.1] (https://github.com/floragunncom/search-guard) <br />
+[剖析Elasticsearch集群系列第一篇 Elasticsearch的存储模型和读写操作] (http://www.infoq.com/cn/articles/analysis-of-elasticsearch-cluster-part01) <br />
+[剖析Elasticsearch集群系列第二篇 分布式的三个C、translog和Lucene段] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part02) <br />
+[剖析Elasticsearch集群系列第三篇 近实时搜索、深层分页问题和搜索相关性权衡之道] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part03) <br />
 
 ### Plugins
 [IK Analysis for Elasticsearch] (https://github.com/medcl/elasticsearch-analysis-ik) <br />
