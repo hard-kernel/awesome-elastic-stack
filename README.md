@@ -17,6 +17,7 @@ Awesome Elastic Stack <br /><br />
 [Elasticsearch Reference] (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) <br />
 [Elasticsearch: The Definitive Guide] (https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) <br />
 [Elasticsearch as Database] (https://segmentfault.com/a/1190000003502849) <br />
+[Search Guard 2 for Elasticsearch 2.4.1] (https://github.com/floragunncom/search-guard) <br />
 
 ### Plugins
 [IK Analysis for Elasticsearch] (https://github.com/medcl/elasticsearch-analysis-ik) <br />
