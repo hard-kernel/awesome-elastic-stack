@@ -12,6 +12,7 @@ Awesome Elastic Stack <br /><br />
 [Python Elasticsearch Client] (http://elasticsearch-py.readthedocs.io/en/master/index.html) <br />
 [Elasticsearch Chef Cookbook] (https://github.com/elastic/cookbook-elasticsearch) <br />
 [ELKstack 中文指南] (http://kibana.logstash.es/content/) <br />
+[Mastering Elasticsearch] (https://wizardforcel.gitbooks.io/mastering-elasticsearch/content/) <br />
 
 ### Tutorials
 [Elasticsearch Reference] (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) <br />
