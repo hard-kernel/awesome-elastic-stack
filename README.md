@@ -25,6 +25,14 @@ Awesome Elastic Stack <br /><br />
 [剖析Elasticsearch集群系列第二篇 分布式的三个C、translog和Lucene段] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part02) <br />
 [剖析Elasticsearch集群系列第三篇 近实时搜索、深层分页问题和搜索相关性权衡之道] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part03) <br />
 [Elasticsearch学习笔记] (https://github.com/siddontang/elasticsearch-note) <br />
+[The Complete Guide to the ELK Stack] (http://logz.io/learn/complete-guide-elk-stack/) <br />
+[ElasticSearch in action] (https://www.youtube.com/watch?v=oPObRc8tHgQ) <br />
+[ElasticSearch for Logging] (http://edgeofsanity.net/article/2012/12/26/elasticsearch-for-logging.html) <br />
+[Getting started with ElasticSearch] (https://www.youtube.com/watch?v=60UsHHsKyN4) <br />
+[How to monitor Elasticsearch performance] (https://www.datadoghq.com/blog/monitor-elasticsearch-performance-metrics/) <br />
+[How to collect Elasticsearch metrics] (https://www.datadoghq.com/blog/collect-elasticsearch-metrics/) <br />
+[How to monitor Elasticsearch with Datadog] (https://www.datadoghq.com/blog/monitor-elasticsearch-datadog/) <br />
+[How to solve 5 Elasticsearch performance and scaling problems] (https://www.datadoghq.com/blog/elasticsearch-performance-scaling-problems/) <br />
 
 ### Plugins
 [IK Analysis for Elasticsearch] (https://github.com/medcl/elasticsearch-analysis-ik) <br />
@@ -41,7 +49,15 @@ Awesome Elastic Stack <br /><br />
 [elasticdump] (https://github.com/taskrabbit/elasticsearch-dump) - Tools for moving and saving indicies. <br />
 [elasticsearch-migration] (https://github.com/medcl/elasticsearch-migration) - An elasticsearch migration tool. <br />
 [Elasticsearch-zabbix] (https://github.com/ejimz/Elasticsearch-zabbix) - Elasticsearch template and script for zabbix. <br />
-[Knapsack plugin for Elasticsearch] (https://github.com/jprante/elasticsearch-knapsack) - Knapsack plugin is an import/export tool for Elasticsearch. <br />
+[elasticsearch-knapsack] (https://github.com/jprante/elasticsearch-knapsack) - Knapsack plugin is an import/export tool for Elasticsearch. <br />
+[Elasticsearch-SQL] (https://github.com/NLPchina/elasticsearch-sql/) - Use SQL to query Elasticsearch. <br />
+[Elasticsearch Hadoop] (https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. <br />
+[elasticsearch-jdbc] (https://github.com/jprante/elasticsearch-jdbc) - JDBC importer for Elasticsearch. <br />
+
+### Products
+[ElastAlert] (https://github.com/yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch. <br />
+[Exceptionless] (https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs. <br />
+[Searchkit] (https://github.com/searchkit/searchkit) - React UI components/widgets.The easiest way to build a great search experience with Elasticsearch. <br />
 
 ## Logstash
 
@@ -50,6 +66,7 @@ Awesome Elastic Stack <br /><br />
 
 ### Tutorials
 [Logstash Reference] (https://www.elastic.co/guide/en/logstash/current/index.html) <br />
+[5 Logstash Alternatives] (https://sematext.com/blog/2016/09/13/logstash-alternatives/) <br />
 
 ### Plugins
 [hangout] (https://github.com/childe/hangout) - 用java实现一下logstash的几个常用input/filter/output. <br />
@@ -60,6 +77,9 @@ Awesome Elastic Stack <br /><br />
 ### Tutorials
 
 ### Plugins
+
+### Tools
+[kaae] (https://github.com/elasticfence/kaae) - Kibana Alert & Report App for Elasticsearch. <br />
 
 ## Beats
 ### Books
