@@ -36,6 +36,12 @@ Awesome Elastic Stack <br /><br />
 [How to collect Elasticsearch metrics] (https://www.datadoghq.com/blog/collect-elasticsearch-metrics/) <br />
 [How to monitor Elasticsearch with Datadog] (https://www.datadoghq.com/blog/monitor-elasticsearch-datadog/) <br />
 [How to solve 5 Elasticsearch performance and scaling problems] (https://www.datadoghq.com/blog/elasticsearch-performance-scaling-problems/) <br />
+[Elasticsearch的备份和恢复] (http://keenwon.com/1393.html) <br />
+[Elastichsearch数据备份，恢复，及迁移] (http://blog.wiseturtles.com/posts/elasticsearch-snapshot-restore.html) <br />
+[Elasticsearch学习总结--原理篇] (http://www.shaheng.me/blog/2015/06/elasticsearch--.html) <br />
+[使用scroll实现Elasticsearch数据遍历和深度分页] (http://lxwei.github.io/posts/%E4%BD%BF%E7%94%A8scroll%E5%AE%9E%E7%8E%B0Elasticsearch%E6%95%B0%E6%8D%AE%E9%81%8D%E5%8E%86%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%88%86%E9%A1%B5.html) <br />
+[Elasticsearch——分页查询From&Size VS scroll] (http://www.cnblogs.com/xing901022/p/5284902.html) <br />
+[Elasticsearch Scroll API详解] (http://hansight.com/blog-elasticsearch-scroll-api.html) <br />
 
 ### Plugins
 [IK Analysis for Elasticsearch] (https://github.com/medcl/elasticsearch-analysis-ik) <br />
