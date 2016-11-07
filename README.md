@@ -13,6 +13,8 @@ Awesome Elastic Stack <br /><br />
 [Elasticsearch Chef Cookbook] (https://github.com/elastic/cookbook-elasticsearch) <br />
 [ELKstack 中文指南] (http://kibana.logstash.es/content/) <br />
 [Mastering Elasticsearch] (https://wizardforcel.gitbooks.io/mastering-elasticsearch/content/) <br />
+[Relevant Search With applications for Solr and Elasticsearch] (https://www.manning.com/books/relevant-search) <br />
+[Elasticsearch in Action] (https://www.manning.com/books/elasticsearch-in-action) <br />
 
 ### Tutorials
 [Elasticsearch Reference] (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) <br />
@@ -22,6 +24,7 @@ Awesome Elastic Stack <br /><br />
 [剖析Elasticsearch集群系列第一篇 Elasticsearch的存储模型和读写操作] (http://www.infoq.com/cn/articles/analysis-of-elasticsearch-cluster-part01) <br />
 [剖析Elasticsearch集群系列第二篇 分布式的三个C、translog和Lucene段] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part02) <br />
 [剖析Elasticsearch集群系列第三篇 近实时搜索、深层分页问题和搜索相关性权衡之道] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part03) <br />
+[Elasticsearch学习笔记] (https://github.com/siddontang/elasticsearch-note) <br />
 
 ### Plugins
 [IK Analysis for Elasticsearch] (https://github.com/medcl/elasticsearch-analysis-ik) <br />
@@ -31,11 +34,14 @@ Awesome Elastic Stack <br /><br />
 [ElasticSearch Paramedic] (https://github.com/karmi/elasticsearch-paramedic) - A simple tool to inspect the state and statistics about elasticsearch clusters. <br />
 [kopf] (https://github.com/lmenezes/elasticsearch-kopf) - Web admin interface for elasticsearch. <br />
 [Bigdesk] (https://github.com/lukas-vlcek/bigdesk) - Live charts and statistics for elasticsearch cluster. <br />
+[Readonly REST Elasticsearch Plugin] (https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin) - Safely expose Elasticsearch REST API directly to the public. <br />
+[dejavu] (https://github.com/appbaseio/dejaVu) - The Missing Web UI for Elasticsearch. <br />
 
 ### Tools
 [elasticdump] (https://github.com/taskrabbit/elasticsearch-dump) - Tools for moving and saving indicies. <br />
 [elasticsearch-migration] (https://github.com/medcl/elasticsearch-migration) - An elasticsearch migration tool. <br />
 [Elasticsearch-zabbix] (https://github.com/ejimz/Elasticsearch-zabbix) - Elasticsearch template and script for zabbix. <br />
+[Knapsack plugin for Elasticsearch] (https://github.com/jprante/elasticsearch-knapsack) - Knapsack plugin is an import/export tool for Elasticsearch. <br />
 
 ## Logstash
 
