@@ -6,8 +6,8 @@ Awesome Elastic Stack <br /><br />
 ## Elasticsearch
 
 ### Books
-[The Definitive Guide to Elasticsearch] (https://github.com/elastic/elasticsearch-definitive-guide) <br />
 [Elasticsearch中文文档] (https://github.com/bragfoo/elasticsearch5.0-docs-cn) <br />
+[The Definitive Guide to Elasticsearch] (https://github.com/elastic/elasticsearch-definitive-guide) <br />
 [Elasticsearch 权威指南] (https://github.com/looly/elasticsearch-definitive-guide-cn) <br />
 [Elasticsearch DSL] (http://elasticsearch-dsl.readthedocs.io/en/latest/) <br />
 [Python Elasticsearch Client] (http://elasticsearch-py.readthedocs.io/en/master/index.html) <br />
