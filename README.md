@@ -67,6 +67,8 @@ Awesome Elastic Stack <br /><br />
 [Exceptionless] (https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs. <br />
 [Searchkit] (https://github.com/searchkit/searchkit) - React UI components/widgets.The easiest way to build a great search experience with Elasticsearch. <br />
 
+
+
 ## Logstash
 
 ### Books
@@ -77,9 +79,11 @@ Awesome Elastic Stack <br /><br />
 [5 Logstash Alternatives] (https://sematext.com/blog/2016/09/13/logstash-alternatives/) <br />
 
 ### Plugins
-[hangout] (https://github.com/childe/hangout) - 用java实现一下logstash的几个常用input/filter/output. <br />
+
+
 
 ## Kibana
+
 ### Books
 
 ### Tutorials
@@ -90,10 +94,18 @@ Awesome Elastic Stack <br /><br />
 ### Tools
 [kaae] (https://github.com/elasticfence/kaae) - Kibana Alert & Report App for Elasticsearch. <br />
 
+
+
 ## Beats
+
 ### Books
 [filebeat中文文档] (https://github.com/70data/beats) <br />
 
 ### Tutorials
 
 ### Plugins
+
+
+
+## Others
+[hangout] (https://github.com/childe/hangout) - 用java实现一下logstash的几个常用input/filter/output. <br />
