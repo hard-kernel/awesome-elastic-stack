@@ -7,18 +7,19 @@ Awesome Elastic Stack <br /><br />
 
 ### Books
 [Elasticsearch中文文档] (https://github.com/bragfoo/elasticsearch5.0-docs-cn) <br />
+[Elasticsearch权威指南中文版] (https://github.com/looly/elasticsearch-definitive-guide-cn) <br />
+[ELKstack 中文指南] (http://kibana.logstash.es/content/) <br />
+[Spring Data Elasticsearch中文版] (https://es.yemengying.com/) <br />
+[Elasticsearch入坑指北] (https://infaye.gitbooks.io/elasticsearch-fornorth/content/) <br />
 [The Definitive Guide to Elasticsearch] (https://github.com/elastic/elasticsearch-definitive-guide) <br />
-[Elasticsearch 权威指南] (https://github.com/looly/elasticsearch-definitive-guide-cn) <br />
 [Elasticsearch DSL] (http://elasticsearch-dsl.readthedocs.io/en/latest/) <br />
 [Python Elasticsearch Client] (http://elasticsearch-py.readthedocs.io/en/master/index.html) <br />
 [Elasticsearch Chef Cookbook] (https://github.com/elastic/cookbook-elasticsearch) <br />
-[ELKstack 中文指南] (http://kibana.logstash.es/content/) <br />
 [Mastering Elasticsearch] (http://udn.yyuap.com/doc/mastering-elasticsearch/) <br />
 [Relevant Search With applications for Solr and Elasticsearch] (https://www.manning.com/books/relevant-search) <br />
 [Elasticsearch in Action] (https://www.manning.com/books/elasticsearch-in-action) <br />
 [Spring Data Elasticsearch] (http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/) <br />
-[Spring Data Elasticsearch中文版] (https://es.yemengying.com/) <br />
-[Elasticsearch入坑指北] (https://infaye.gitbooks.io/elasticsearch-fornorth/content/) <br />
+
 
 ### Tutorials
 [Elasticsearch Reference] (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) <br />
