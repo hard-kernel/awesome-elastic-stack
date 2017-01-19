@@ -13,6 +13,8 @@ Awesome Elastic Stack <br /><br />
 [Spring Data Elasticsearch] (http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/) <br />
 [ELKstack 中文指南] (http://kibana.logstash.es/content/) <br />
 [Elasticsearch入坑指北] (https://infaye.gitbooks.io/elasticsearch-fornorth/content/) <br />
+[Elasticsearch中文指南] (https://endymecy.gitbooks.io/elasticsearch-guide-chinese/content/) <br />
+[Elasticsearch 权威指南] (https://fuxiaopang.gitbooks.io/learnelasticsearch/) <br />
 [Mastering Elasticsearch] (http://udn.yyuap.com/doc/mastering-elasticsearch/) <br />
 [Elasticsearch DSL] (http://elasticsearch-dsl.readthedocs.io/en/latest/) <br />
 [Python Elasticsearch Client] (http://elasticsearch-py.readthedocs.io/en/master/index.html) <br />
