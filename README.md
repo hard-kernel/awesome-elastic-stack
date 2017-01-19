@@ -7,7 +7,7 @@ Awesome Elastic Stack <br /><br />
 
 ### Books
 [Elasticsearch中文文档] (https://github.com/bragfoo/elasticsearch5.0-docs-cn) <br />
-[Elasticsearch权威指南中文版] (https://github.com/looly/elasticsearch-definitive-guide-cn) <br />
+[The Definitive Guide to Elasticsearch中文版] (https://github.com/looly/elasticsearch-definitive-guide-cn) <br />
 [The Definitive Guide to Elasticsearch] (https://github.com/elastic/elasticsearch-definitive-guide) <br />
 [Spring Data Elasticsearch中文版] (https://es.yemengying.com/) <br />
 [Spring Data Elasticsearch] (http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/) <br />
