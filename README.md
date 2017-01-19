@@ -6,7 +6,7 @@ Awesome Elastic Stack <br /><br />
 ## Elasticsearch
 
 ### Books
-[Elasticsearch中文文档] (https://github.com/bragfoo/elasticsearch5.0-docs-cn) <br />
+[Elasticsearch中文文档] (https://github.com/70data/elasticsearch-cn) <br />
 [The Definitive Guide to Elasticsearch中文版] (https://github.com/looly/elasticsearch-definitive-guide-cn) <br />
 [The Definitive Guide to Elasticsearch] (https://github.com/elastic/elasticsearch-definitive-guide) <br />
 [Spring Data Elasticsearch中文版] (https://es.yemengying.com/) <br />
@@ -17,32 +17,30 @@ Awesome Elastic Stack <br /><br />
 [Elasticsearch DSL] (http://elasticsearch-dsl.readthedocs.io/en/latest/) <br />
 [Python Elasticsearch Client] (http://elasticsearch-py.readthedocs.io/en/master/index.html) <br />
 [Elasticsearch Chef Cookbook] (https://github.com/elastic/cookbook-elasticsearch) <br />
-[Elasticsearch in Action] (https://www.manning.com/books/elasticsearch-in-action) <br />
-[Relevant Search With applications for Solr and Elasticsearch] (https://www.manning.com/books/relevant-search) <br />
 
 ### Tutorials
-[Elasticsearch Reference] (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) <br />
-[Elasticsearch: The Definitive Guide] (https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) <br />
 [Elasticsearch as Database] (https://segmentfault.com/a/1190000003502849) <br />
-[Search Guard 2 for Elasticsearch 2.4.1] (https://github.com/floragunncom/search-guard) <br />
 [剖析Elasticsearch集群系列第一篇 Elasticsearch的存储模型和读写操作] (http://www.infoq.com/cn/articles/analysis-of-elasticsearch-cluster-part01) <br />
 [剖析Elasticsearch集群系列第二篇 分布式的三个C、translog和Lucene段] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part02) <br />
 [剖析Elasticsearch集群系列第三篇 近实时搜索、深层分页问题和搜索相关性权衡之道] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part03) <br />
 [Elasticsearch学习笔记] (https://github.com/siddontang/elasticsearch-note) <br />
-[The Complete Guide to the ELK Stack] (http://logz.io/learn/complete-guide-elk-stack/) <br />
-[ElasticSearch in action] (https://www.youtube.com/watch?v=oPObRc8tHgQ) <br />
-[ElasticSearch for Logging] (http://edgeofsanity.net/article/2012/12/26/elasticsearch-for-logging.html) <br />
-[Getting started with ElasticSearch] (https://www.youtube.com/watch?v=60UsHHsKyN4) <br />
-[How to monitor Elasticsearch performance] (https://www.datadoghq.com/blog/monitor-elasticsearch-performance-metrics/) <br />
-[How to collect Elasticsearch metrics] (https://www.datadoghq.com/blog/collect-elasticsearch-metrics/) <br />
-[How to monitor Elasticsearch with Datadog] (https://www.datadoghq.com/blog/monitor-elasticsearch-datadog/) <br />
-[How to solve 5 Elasticsearch performance and scaling problems] (https://www.datadoghq.com/blog/elasticsearch-performance-scaling-problems/) <br />
 [Elasticsearch的备份和恢复] (http://keenwon.com/1393.html) <br />
 [Elastichsearch数据备份，恢复，及迁移] (http://blog.wiseturtles.com/posts/elasticsearch-snapshot-restore.html) <br />
 [Elasticsearch学习总结--原理篇] (http://www.shaheng.me/blog/2015/06/elasticsearch--.html) <br />
 [使用scroll实现Elasticsearch数据遍历和深度分页] (http://lxwei.github.io/posts/%E4%BD%BF%E7%94%A8scroll%E5%AE%9E%E7%8E%B0Elasticsearch%E6%95%B0%E6%8D%AE%E9%81%8D%E5%8E%86%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%88%86%E9%A1%B5.html) <br />
 [Elasticsearch——分页查询From&Size VS scroll] (http://www.cnblogs.com/xing901022/p/5284902.html) <br />
 [Elasticsearch Scroll API详解] (http://hansight.com/blog-elasticsearch-scroll-api.html) <br />
+[Elasticsearch Reference] (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) <br />
+[Elasticsearch: The Definitive Guide] (https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) <br />
+[Search Guard 2 for Elasticsearch 2.4.1] (https://github.com/floragunncom/search-guard) <br />
+[The Complete Guide to the ELK Stack] (http://logz.io/learn/complete-guide-elk-stack/) <br />
+[ElasticSearch for Logging] (http://edgeofsanity.net/article/2012/12/26/elasticsearch-for-logging.html) <br />
+[ElasticSearch in action] (https://www.youtube.com/watch?v=oPObRc8tHgQ) <br />
+[Getting started with ElasticSearch] (https://www.youtube.com/watch?v=60UsHHsKyN4) <br />
+[How to monitor Elasticsearch performance] (https://www.datadoghq.com/blog/monitor-elasticsearch-performance-metrics/) <br />
+[How to collect Elasticsearch metrics] (https://www.datadoghq.com/blog/collect-elasticsearch-metrics/) <br />
+[How to monitor Elasticsearch with Datadog] (https://www.datadoghq.com/blog/monitor-elasticsearch-datadog/) <br />
+[How to solve 5 Elasticsearch performance and scaling problems] (https://www.datadoghq.com/blog/elasticsearch-performance-scaling-problems/) <br />
 
 ### Plugins
 [IK Analysis for Elasticsearch] (https://github.com/medcl/elasticsearch-analysis-ik) <br />
@@ -87,12 +85,14 @@ Awesome Elastic Stack <br /><br />
 ### Tutorials
 
 ### Plugins
+[Kibana plugin: Own Home] (https://github.com/wtakase/kibana-own-home) - Multi-tenancy for Kibana. <br />
 
 ### Tools
 [kaae] (https://github.com/elasticfence/kaae) - Kibana Alert & Report App for Elasticsearch. <br />
 
 ## Beats
 ### Books
+[filebeat中文文档] (https://github.com/70data/beats) <br />
 
 ### Tutorials
 
