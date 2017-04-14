@@ -2,6 +2,7 @@
 Awesome Elastic Stack <br /><br />
 [discuss] (https://discuss.elastic.co/) <br />
 [Elastic 中文社区] (http://elasticsearch.cn/) <br />
+[Elastic 相关PPT] (http://pan.baidu.com/s/1hs0xMN6) <br />
 
 ## Elasticsearch
 
