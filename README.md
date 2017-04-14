@@ -27,9 +27,7 @@ Awesome Elastic Stack <br /><br />
 [剖析 Elasticsearch 集群系列第二篇 分布式的三个 C、translog 和 Lucene 段] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part02) <br />
 [剖析 Elasticsearch 集群系列第三篇 近实时搜索、深层分页问题和搜索相关性权衡之道] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part03) <br />
 [Elasticsearch 学习笔记] (https://github.com/siddontang/elasticsearch-note) <br />
-[Elasticsearch 的备份和恢复] (http://keenwon.com/1393.html) <br />
 [Elasticsearch 数据备份，恢复，及迁移] (http://blog.wiseturtles.com/posts/elasticsearch-snapshot-restore.html) <br />
-[Elasticsearch 数据迁移与备份] (http://logos.name/archives/515) <br />
 [Elasticsearch 学习总结--原理篇] (http://www.shaheng.me/blog/2015/06/elasticsearch--.html) <br />
 [使用 scroll 实现 Elasticsearch 数据遍历和深度分页] (http://lxwei.github.io/posts/%E4%BD%BF%E7%94%A8scroll%E5%AE%9E%E7%8E%B0Elasticsearch%E6%95%B0%E6%8D%AE%E9%81%8D%E5%8E%86%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%88%86%E9%A1%B5.html) <br />
 [Elasticsearch 分页查询 From&Size VS scroll] (http://www.cnblogs.com/xing901022/p/5284902.html) <br />
