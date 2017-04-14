@@ -33,6 +33,8 @@ Awesome Elastic Stack <br /><br />
 [使用 scroll 实现 Elasticsearch 数据遍历和深度分页] (http://lxwei.github.io/posts/%E4%BD%BF%E7%94%A8scroll%E5%AE%9E%E7%8E%B0Elasticsearch%E6%95%B0%E6%8D%AE%E9%81%8D%E5%8E%86%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%88%86%E9%A1%B5.html) <br />
 [Elasticsearch 分页查询 From&Size VS scroll] (http://www.cnblogs.com/xing901022/p/5284902.html) <br />
 [Elasticsearch Scroll API 详解] (http://hansight.com/blog-elasticsearch-scroll-api.html) <br />
+[ELK日志中心分布式架构的逐步演化] (https://github.com/jasonGeng88/blog/blob/master/201703/logstash_deploye_scale.md) <br />
+[Deploying and Scaling Logstash] (https://www.elastic.co/guide/en/logstash/current/deploying-and-scaling.html) <br />
 [Elasticsearch Reference] (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) <br />
 [Elasticsearch: The Definitive Guide] (https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) <br />
 [The Complete Guide to the ELK Stack] (http://logz.io/learn/complete-guide-elk-stack/) <br />
