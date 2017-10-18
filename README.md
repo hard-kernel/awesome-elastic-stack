@@ -92,4 +92,6 @@ Awesome Elastic Stack <br /><br />
 
 
 ## Others
+[百度改进的Elasticsearch](https://github.com/baidu/Elasticsearch) - Baidu Elasticsearch. <br />
+[Graylog](https://github.com/Graylog2/graylog2-server) - Free and open source log management. <br />
 [hangout](https://github.com/childe/hangout) - 用java实现一下logstash的几个常用input/filter/output. <br />
