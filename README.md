@@ -20,28 +20,7 @@ Awesome Elastic Stack <br /><br />
 [Elasticsearch Chef Cookbook](https://github.com/elastic/cookbook-elasticsearch) <br />
 
 ### Tutorials
-[Elasticsearch as Database] (https://segmentfault.com/a/1190000003502849) <br />
-[剖析 Elasticsearch 集群系列第一篇 Elasticsearch 的存储模型和读写操作] (http://www.infoq.com/cn/articles/analysis-of-elasticsearch-cluster-part01) <br />
-[剖析 Elasticsearch 集群系列第二篇 分布式的三个 C、translog 和 Lucene 段] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part02) <br />
-[剖析 Elasticsearch 集群系列第三篇 近实时搜索、深层分页问题和搜索相关性权衡之道] (http://www.infoq.com/cn/articles/anatomy-of-an-elasticsearch-cluster-part03) <br />
-[Elasticsearch 学习笔记] (https://github.com/siddontang/elasticsearch-note) <br />
-[Elasticsearch 数据备份，恢复，及迁移] (http://blog.wiseturtles.com/posts/elasticsearch-snapshot-restore.html) <br />
-[Elasticsearch 学习总结--原理篇] (http://www.shaheng.me/blog/2015/06/elasticsearch--.html) <br />
-[使用 scroll 实现 Elasticsearch 数据遍历和深度分页] (http://lxwei.github.io/posts/%E4%BD%BF%E7%94%A8scroll%E5%AE%9E%E7%8E%B0Elasticsearch%E6%95%B0%E6%8D%AE%E9%81%8D%E5%8E%86%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%88%86%E9%A1%B5.html) <br />
-[Elasticsearch 分页查询 From&Size VS scroll] (http://www.cnblogs.com/xing901022/p/5284902.html) <br />
-[Elasticsearch Scroll API 详解] (http://hansight.com/blog-elasticsearch-scroll-api.html) <br />
-[ELK 日志中心分布式架构的逐步演化] (https://github.com/jasonGeng88/blog/blob/master/201703/logstash_deploye_scale.md) <br />
-[Deploying and Scaling Logstash] (https://www.elastic.co/guide/en/logstash/current/deploying-and-scaling.html) <br />
-[Elasticsearch Reference] (https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) <br />
-[Elasticsearch: The Definitive Guide] (https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) <br />
-[The Complete Guide to the ELK Stack] (http://logz.io/learn/complete-guide-elk-stack/) <br />
-[ElasticSearch for Logging] (http://edgeofsanity.net/article/2012/12/26/elasticsearch-for-logging.html) <br />
-[How to monitor Elasticsearch performance] (https://www.datadoghq.com/blog/monitor-elasticsearch-performance-metrics/) <br />
-[How to collect Elasticsearch metrics] (https://www.datadoghq.com/blog/collect-elasticsearch-metrics/) <br />
-[How to monitor Elasticsearch with Datadog] (https://www.datadoghq.com/blog/monitor-elasticsearch-datadog/) <br />
-[How to solve 5 Elasticsearch performance and scaling problems] (https://www.datadoghq.com/blog/elasticsearch-performance-scaling-problems/) <br />
-[ElasticSearch in action] (https://www.youtube.com/watch?v=oPObRc8tHgQ) <br />
-[Getting started with ElasticSearch] (https://www.youtube.com/watch?v=60UsHHsKyN4) <br />
+
 
 ### Tools
 [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster. <br />
@@ -75,13 +54,13 @@ Awesome Elastic Stack <br /><br />
 ## Logstash
 
 ### Books
-[Logstash 最佳实践] (http://udn.yyuap.com/doc/logstash-best-practice-cn/index.html) <br />
+[Logstash 最佳实践](http://udn.yyuap.com/doc/logstash-best-practice-cn/index.html) <br />
 
 ### Tutorials
-[Logstash Reference] (https://www.elastic.co/guide/en/logstash/current/index.html) <br />
-[5 Logstash Alternatives] (https://sematext.com/blog/2016/09/13/logstash-alternatives/) <br />
+
 
 ### Tools
+
 
 
 
@@ -89,24 +68,28 @@ Awesome Elastic Stack <br /><br />
 
 ### Books
 
+
 ### Tutorials
 
+
 ### Tools
-[Kibana plugin: Own Home] (https://github.com/wtakase/kibana-own-home) - Multi-tenancy for Kibana. <br />
-[kaae] (https://github.com/elasticfence/kaae) - Kibana Alert & Report App for Elasticsearch. <br />
+[Kibana plugin: Own Home](https://github.com/wtakase/kibana-own-home) - Multi-tenancy for Kibana. <br />
+[kaae](https://github.com/elasticfence/kaae) - Kibana Alert & Report App for Elasticsearch. <br />
 
 
 
 ## Beats
 
 ### Books
-[filebeat 中文文档] (https://github.com/70data/beats) <br />
+
 
 ### Tutorials
+
 
 ### Tools
 
 
 
+
 ## Others
-[hangout] (https://github.com/childe/hangout) - 用java实现一下logstash的几个常用input/filter/output. <br />
+[hangout](https://github.com/childe/hangout) - 用java实现一下logstash的几个常用input/filter/output. <br />
