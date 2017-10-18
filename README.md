@@ -37,17 +37,20 @@ Awesome Elastic Stack <br /><br />
 [elasticdump](https://github.com/taskrabbit/elasticsearch-dump) - Tools for moving and saving indicies. <br />
 [elasticsearch-migration](https://github.com/medcl/elasticsearch-migration) - An elasticsearch migration tool. <br />
 [elasticsearch-knapsack](https://github.com/jprante/elasticsearch-knapsack) - Knapsack plugin is an import/export tool for Elasticsearch. <br />
+[elasticsearch-learning-to-rank](https://github.com/o19s/elasticsearch-learning-to-rank) - Plugin to integrate Learning to Rank (aka machine learning for better relevance) with Elasticsearch. <br />
 [Elasticsearch-SQL](https://github.com/NLPchina/elasticsearch-sql/) - Use SQL to query Elasticsearch. <br />
 [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. <br />
 [elasticsearch-jdbc](https://github.com/jprante/elasticsearch-jdbc) - JDBC importer for Elasticsearch. <br />
-[Python Elasticsearch Client](http://elasticsearch-py.readthedocs.io/en/master/index.html) <br />
+[Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs. <br />
+[Searchkit](https://github.com/searchkit/searchkit) - React UI components/widgets.The easiest way to build a great search experience with Elasticsearch. <br />
+[Raigad](https://github.com/Netflix/Raigad) - Co-Process for backup/recovery, Auto Deployments and Centralized Configuration management for ElasticSearch. <br />
 [Elasticsearch-zabbix](https://github.com/ejimz/Elasticsearch-zabbix) - Elasticsearch template and script for zabbix. <br />
 [Elasticsearch Exporter](https://github.com/justwatchcom/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus. <br />
 [Prometheus Exporter Plugin for ElasticSearch](https://github.com/vvanholl/elasticsearch-prometheus-exporter) - Prometheus exporter plugin for ElasticSearch. <br />
 [Prometheus Elasticsearch Exporter](https://github.com/braedon/prometheus-es-exporter) - Prometheus Elasticsearch Exporter. <br />
 [ElastAlert](https://github.com/yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch. <br />
-[Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs. <br />
-[Searchkit](https://github.com/searchkit/searchkit) - React UI components/widgets.The easiest way to build a great search experience with Elasticsearch. <br />
+[Python Elasticsearch Client](http://elasticsearch-py.readthedocs.io/en/master/index.html) <br />
+[elasticsearch-lua](https://github.com/DhavalKapil/elasticsearch-lua) <br />
 
 
 
@@ -75,6 +78,7 @@ Awesome Elastic Stack <br /><br />
 ### Tools
 [Kibana plugin: Own Home](https://github.com/wtakase/kibana-own-home) - Multi-tenancy for Kibana. <br />
 [kaae](https://github.com/elasticfence/kaae) - Kibana Alert & Report App for Elasticsearch. <br />
+[LogTrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events. <br />
 
 
 
