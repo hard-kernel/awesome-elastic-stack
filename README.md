@@ -37,7 +37,7 @@ Awesome Elastic Stack <br /><br />
 [elasticdump](https://github.com/taskrabbit/elasticsearch-dump) - Tools for moving and saving indicies. <br />
 [elasticsearch-migration](https://github.com/medcl/elasticsearch-migration) - An elasticsearch migration tool. <br />
 [elasticsearch-knapsack](https://github.com/jprante/elasticsearch-knapsack) - Knapsack plugin is an import/export tool for Elasticsearch. <br />
-[elasticsearch-learning-to-rank](https://github.com/o19s/elasticsearch-learning-to-rank) - Plugin to integrate Learning to Rank (aka machine learning for better relevance) with Elasticsearch. <br />
+[elasticsearch-learning-to-rank](https://github.com/o19s/elasticsearch-learning-to-rank) - Plugin to integrate Learning to Rank with Elasticsearch. <br />
 [Elasticsearch-SQL](https://github.com/NLPchina/elasticsearch-sql/) - Use SQL to query Elasticsearch. <br />
 [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. <br />
 [elasticsearch-jdbc](https://github.com/jprante/elasticsearch-jdbc) - JDBC importer for Elasticsearch. <br />
