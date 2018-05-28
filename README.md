@@ -11,7 +11,7 @@ Awesome Elastic Stack <br /><br />
 [The Definitive Guide to Elasticsearch](https://github.com/elastic/elasticsearch-definitive-guide) <br />
 [Spring Data Elasticsearch 中文版](https://es.yemengying.com/) <br />
 [Spring Data Elasticsearch](http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/) <br />
-[ELKstack 中文指南](http://kibana.logstash.es/content/) <br />
+[ELKstack 中文指南](https://chenryn.gitbooks.io/elk-stack-guide-cn/) <br />
 [Elasticsearch 入坑指北](https://infaye.gitbooks.io/elasticsearch-fornorth/content/) <br />
 [Elasticsearch 中文指南](https://endymecy.gitbooks.io/elasticsearch-guide-chinese/content/) <br />
 [Elasticsearch 权威指南](https://fuxiaopang.gitbooks.io/learnelasticsearch/) <br />
