@@ -19,9 +19,6 @@ Awesome Elastic Stack <br /><br />
 [Elasticsearch DSL](http://elasticsearch-dsl.readthedocs.io/en/latest/) <br />
 [Elasticsearch Chef Cookbook](https://github.com/elastic/cookbook-elasticsearch) <br />
 
-### Tutorials
-
-
 ### Tools
 [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster. <br />
 [ElasticHQ](https://github.com/royrusso/elasticsearch-HQ) - Monitoring, management, and querying web interface for elasticsearch instances and clusters. <br />
@@ -59,9 +56,6 @@ Awesome Elastic Stack <br /><br />
 ### Books
 [Logstash 最佳实践](http://udn.yyuap.com/doc/logstash-best-practice-cn/index.html) <br />
 
-### Tutorials
-
-
 ### Tools
 
 
@@ -70,9 +64,6 @@ Awesome Elastic Stack <br /><br />
 ## Kibana
 
 ### Books
-
-
-### Tutorials
 
 
 ### Tools
@@ -85,9 +76,6 @@ Awesome Elastic Stack <br /><br />
 ## Beats
 
 ### Books
-
-
-### Tutorials
 
 
 ### Tools
