@@ -1,5 +1,5 @@
 # Awesome Elastic Stack
-Awesome Elastic Stack <br /><br />
+
 [Elastic 中文社区](http://elasticsearch.cn/) <br />
 [discuss](https://discuss.elastic.co/) <br />
 [Elastic 相关PPT](http://pan.baidu.com/s/1kVxKgSJ) 密码：ripz <br />
