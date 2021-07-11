@@ -49,39 +49,17 @@ Awesome Elastic Stack <br /><br />
 [Python Elasticsearch Client](http://elasticsearch-py.readthedocs.io/en/master/index.html) <br />
 [elasticsearch-lua](https://github.com/DhavalKapil/elasticsearch-lua) <br />
 
-
-
 ## Logstash
 
 ### Books
 [Logstash 最佳实践](http://udn.yyuap.com/doc/logstash-best-practice-cn/index.html) <br />
 
-### Tools
-
-
-
-
 ## Kibana
-
-### Books
-
 
 ### Tools
 [Kibana plugin: Own Home](https://github.com/wtakase/kibana-own-home) - Multi-tenancy for Kibana. <br />
 [kaae](https://github.com/elasticfence/kaae) - Kibana Alert & Report App for Elasticsearch. <br />
 [LogTrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events. <br />
-
-
-
-## Beats
-
-### Books
-
-
-### Tools
-
-
-
 
 ## Others
 [百度改进的Elasticsearch](https://github.com/baidu/Elasticsearch) - Baidu Elasticsearch. <br />
