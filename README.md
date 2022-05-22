@@ -46,11 +46,6 @@
 [Python Elasticsearch Client](http://elasticsearch-py.readthedocs.io/en/master/index.html) <br />
 [elasticsearch-lua](https://github.com/DhavalKapil/elasticsearch-lua) <br />
 
-## Logstash
-
-### Books
-[Logstash 最佳实践](http://udn.yyuap.com/doc/logstash-best-practice-cn/index.html) <br />
-
 ## Kibana
 
 ### Tools
